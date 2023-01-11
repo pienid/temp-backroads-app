@@ -1,0 +1,10 @@
+/* whatever we add here will override what we have in index.css
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+.section {
+  scroll-margin-top: 4rem;
+}
